@@ -6,7 +6,7 @@ from datetime import datetime
 import os
 
 st.set_page_config(
-    page_title="KCC Glass | Intelligence Dashboard",
+    page_title="KCC Glass | Intelligence Dashboard v2",
     page_icon="🏢",
     layout="wide",
     initial_sidebar_state="expanded"
